@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=aryanc1027&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=aryanc1027&show_icons=true&hide_rank=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc1027&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanc1027&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanc1027&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
 
-<!--
-**aryanc1027/aryanc1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=simple-socks5)](https://github.com/aryanc1027/simple-socks5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=Secure-Delete)](https://github.com/aryanc1027/Secure-Delete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=PushNotificationServerFramework)](https://github.com/aryanc1027/PushNotificationServerFramework)
