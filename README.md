@@ -7,6 +7,3 @@
   <br>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=simple-socks5)](https://github.com/aryanc1027/simple-socks5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=Secure-Delete)](https://github.com/aryanc1027/Secure-Delete)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryanc1027&repo=PushNotificationServerFramework)](https://github.com/aryanc1027/PushNotificationServerFramework)
